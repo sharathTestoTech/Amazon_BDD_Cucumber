@@ -1,0 +1,7 @@
+{
+	"MandatoryMessage_CreateAccount": [{
+			"userName": "Enter your name",
+			"mobileNumber": "Enter your email or mobile phone number",
+			"password":"Minimum 6 characters required"
+		}	]
+}

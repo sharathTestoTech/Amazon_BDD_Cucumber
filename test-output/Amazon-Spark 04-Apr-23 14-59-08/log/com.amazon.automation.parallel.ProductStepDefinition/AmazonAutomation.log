@@ -1,0 +1,50 @@
+Apr 04, 2023 2:59:15 PM com.amazon.automation.util.Loggers configureLoggerSystem
+INFO: *************************************The Execution is started********************************************************
+Apr 04, 2023 2:59:15 PM com.amazon.automation.util.ConfigReader initprop
+INFO: Log information from config reader file java.io.FileInputStream@25974207
+Apr 04, 2023 2:59:16 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO:  Test Execution is about to begin for ProductStepDefinition 
+Apr 04, 2023 2:59:19 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Change Pincode
+Apr 04, 2023 2:59:22 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Enter Pincode:94016
+Apr 04, 2023 2:59:33 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Apply pincode
+Apr 04, 2023 2:59:33 PM com.amazon.automation.util.ElementUtil webEditTxtChange
+INFO: Log Info From ElementUtil Amazon Essentials Women's Digital Chronograph Resin Strap Watch is entering into 
+Apr 04, 2023 2:59:56 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Search products: Amazon Essentials Women's Digital Chronograph Resin Strap Watch
+Apr 04, 2023 3:00:28 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Navigate to product
+Apr 04, 2023 3:00:32 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: validate cart:1
+Apr 04, 2023 3:00:32 PM com.amazon.automation.util.ElementUtil webEditTxtChange
+INFO: Log Info From ElementUtil Mouse is entering into 
+Apr 04, 2023 3:00:56 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Search products: Mouse
+Apr 04, 2023 3:00:59 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Input quantity
+Apr 04, 2023 3:01:30 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Navigate to product
+Apr 04, 2023 3:01:34 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: validate cart:2
+Apr 04, 2023 3:01:34 PM com.amazon.automation.util.ElementUtil webEditTxtChange
+INFO: Log Info From ElementUtil Apple AirTag Leather Key Ring - California Poppy is entering into 
+Apr 04, 2023 3:01:55 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Search products: Apple AirTag Leather Key Ring - California Poppy
+Apr 04, 2023 3:02:26 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Navigate to product
+Apr 04, 2023 3:02:30 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: validate cart:1
+Apr 04, 2023 3:02:34 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: delete product
+Apr 04, 2023 3:02:34 PM com.amazon.automation.util.ElementUtil webEditTxtChange
+INFO: Log Info From ElementUtil office chair is entering into 
+Apr 04, 2023 3:02:57 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Search products: office chair
+Apr 04, 2023 3:03:27 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Navigate to product
+Apr 04, 2023 3:03:33 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: save for later
+Apr 04, 2023 3:03:33 PM com.amazon.automation.util.Loggers closeTheHandler
+INFO: Closing File

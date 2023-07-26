@@ -1,0 +1,18 @@
+Apr 04, 2023 3:03:41 PM com.amazon.automation.util.Loggers configureLoggerSystem
+INFO: *************************************The Execution is started********************************************************
+Apr 04, 2023 3:03:41 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO:  Test Execution is about to begin for LoginStepDefinition 
+Apr 04, 2023 3:03:41 PM com.amazon.automation.util.ConfigReader initprop
+INFO: Log information from config reader file java.io.FileInputStream@43755e2f
+Apr 04, 2023 3:03:49 PM com.amazon.automation.util.ElementUtil webEditTxtChange
+INFO: Log Info From ElementUtil 8851004651 is entering into 
+Apr 04, 2023 3:03:50 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Enter Username
+Apr 04, 2023 3:04:04 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Click continue
+Apr 04, 2023 3:04:06 PM com.amazon.automation.util.ElementUtil webEditTxtChange
+INFO: Log Info From ElementUtil Qwerty1234 is entering into 
+Apr 04, 2023 3:04:07 PM com.amazon.automation.util.Loggers setLoggerInfo
+INFO: Enter Password
+Apr 04, 2023 3:04:07 PM com.amazon.automation.util.Loggers closeTheHandler
+INFO: Closing File
